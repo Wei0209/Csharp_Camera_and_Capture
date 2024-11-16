@@ -5,6 +5,6 @@
 ### 只需修改第55行的filename路徑即可選擇儲存位置
 ### Just modify the filename path in line 55 to select the storage location
 
-ˋ``
+
 ``` string filename = @"C:\Users\rvl224\source\repos\Camera_and_Capture\image\" + textBox1.Text + ".jpg";
-ˋ``
+
