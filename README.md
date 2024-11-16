@@ -7,9 +7,4 @@
 
 ˋ``
 string filename = @"C:\Users\rvl224\source\repos\Camera_and_Capture\image\" + textBox1.Text + ".jpg";
-```
-```
-git status
-git add
-git commit
-```
+
